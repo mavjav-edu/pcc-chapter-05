@@ -124,4 +124,4 @@ Consider games you might want to write, data sets you might want to explore, and
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-04)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-06)
+[&#10094; Prev](../../../pcc-chapter-04)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-06)

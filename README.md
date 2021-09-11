@@ -62,7 +62,7 @@ it is, print a message that the player just earned 5 points.
 another that fails. (The version that fails will have no output.)
 
 <span id="ch5exe4"></span>**5-4. Alien Colors #2:** Choose a color for
-an alien as you did in [Exercise 5-3](../../../pcc_2e/tree/master/chapter_05/README.md#ch5exe3), and write an
+an alien as you did in [Exercise 5-3](#ch5exe3), and write an
 `if`-`else` chain.
 
 - If the alien&rsquo;s color is green, print a statement that the player just

@@ -4,8 +4,7 @@ Programming often involves examining a set of conditions and deciding
 which action to take based on those conditions. Python’s `if` statement allows you to examine the current
 state of a program and respond appropriately to that state.
 
-
-
+<img src="bitwise.gif" width="400vw"/>
 
 <span id="page_82"></span>
 ## TRY IT YOURSELF Ⓐ
@@ -51,6 +50,8 @@ less than, greater than or equal to, and less than or equal to
 
 ## TRY IT YOURSELF Ⓑ
 
+<p align="center"><img src="spaceinvaders.gif" width="400vw"/></p>
+
 <span id="ch5exe3"></span>**5-3. Alien Colors #1:** Imagine an alien was
 just shot down in a game. Create a variable called `alien_color` and
 assign it a value of `'green'`, `'yellow'`, or `'red'`.
@@ -74,9 +75,7 @@ just earned 10 points.
 - Write one version of this program that runs the `if` block and another
 that runs the `else` block.
 
-<span id="page_89"></span><span id="ch5exe5"></span>**5-5. Alien Colors
-
-#3:** Turn your `if`-`else` chain from [Exercise 5-4](#ch5exe4)
+<span id="page_89"></span><span id="ch5exe5"></span>**5-5. Alien Colors #3:** Turn your `if`-`else` chain from [Exercise 5-4](#ch5exe4)
 into an `if`-`elif-else` chain.
 
 - If the alien is green, print a message that the player earned 5
@@ -111,6 +110,8 @@ message that the person is an adult.
 
 - If the person is age 65 or older, print a message that the person is
 an elder.
+
+<p align="center"><img src="lifestages.gif" width="400vw"/></p>
 
 <span id="ch5exe7"></span>**5-7. Favorite Fruit:** Make a list of your
 favorite fruits, and then write a series of independent `if` statements
